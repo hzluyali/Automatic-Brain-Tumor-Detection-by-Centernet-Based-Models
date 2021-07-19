@@ -4,6 +4,8 @@
 
 ## 所需库： Tensorflow 1.13+Keras 2.1.5+Numpy+Matplotlib+Opencv+scipy
 
+## 模型：通过残差差分特征模块替代ResNet50中的残差模块，并作为centernet的特征提取网络
+
 ## 训练过程自己的数据集
 
 Step 1: 将数据集处理成VOC的格式，并将数据放置于VOCdevkit/VOC2007中
