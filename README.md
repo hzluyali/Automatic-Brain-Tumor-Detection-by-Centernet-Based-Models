@@ -28,6 +28,9 @@ Step 5: 修改centernet.py中第27行的模型路径并运行pyhton predict.py�
 
 预训练模型文件已被上传至百度云盘，链接为：
 
+链接：https://pan.baidu.com/s/15Wy3T-qyUk9UlAbsxy0Q0Q 
+提取码：rjtc 
+
 将模型文件拷贝至logs文件夹中，并修改centernet.py中第27行的模型路径，运行python predict.py
 
 运行过程中，输入文件路径，如f:/1.jpg，按下enter键后就可获得检测结果，此外，按下n键再按下enter键后退出模型，效果如下
