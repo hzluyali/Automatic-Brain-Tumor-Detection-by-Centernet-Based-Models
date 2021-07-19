@@ -26,4 +26,12 @@ Step 5: 修改centernet.py中第27行的模型路径并运行pyhton predict.py�
 
 运行过程中，输入文件路径，如f:/1.jpg，按下enter键后就可获得检测结果，此外，按下n键再按下enter键后退出模型
 
+## 计算性能指标 (mAP)
+
+修改centernet.py中第27行的模型路径并运行python get_dr_txt.py
+
+运行python get_gt_txt.py
+
+运行python get_map.py
+
 
