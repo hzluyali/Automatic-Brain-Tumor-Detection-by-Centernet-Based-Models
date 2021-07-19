@@ -20,6 +20,10 @@ Step 4: 运行python train.py
 
 Step 5: 修改centernet.py中第27行的模型路径并运行pyhton predict.py进行模型预测
 
+训练过程如下：
+
+![image](https://github.com/hzluyali/Automatic-Brain-Tumor-Detection-by-Centernet-Based-Models/blob/main/img/epoch_loss_2021_07_19_19_02_10.png)
+
 ## 直接根据预训练模型实现脑瘤的自动检测
 
 预训练模型文件已被上传至百度云盘，链接为：
